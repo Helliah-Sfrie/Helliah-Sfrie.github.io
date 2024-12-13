@@ -139,7 +139,7 @@ import { data } from './data.js';
     mainContent.insertAdjacentHTML('beforeend', contactSection);
 
     const projectsSection = `
-        <section id="projects" class="py-20 px-6 bg-gray-900">
+        <section id="projects" class="py-20 px-6 pb-40 bg-gray-900">
             <div class="w-full max-w-7xl mx-auto text-left">
                 <h1 class="section-title">Projects</h1>
             </div>
