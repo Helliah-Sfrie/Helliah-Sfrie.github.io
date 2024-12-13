@@ -15,7 +15,7 @@ export const data = {
         name: "Krystel Swin",
         dynamicText: [
             "a BS Geodetic Engineering Student.",
-            "a Coder.",
+            "an Aspiring Coder.",
             "learning Spatial Data Engineering and Spatial Data Science."
         ],
         socialLinks: [
@@ -26,7 +26,7 @@ export const data = {
     },
     about: {
         image: "img/krystel-about.jpg",
-        description: "Focused and enthusiastic developer with a keen interest in software development and spatial data science. By comprehensive exposure to underlying concepts and applying them vividly to various projects, my passion for these domains continues to grow. I am a passionate individual who thrives on building real-world solutions.",
+        description: "Focused and enthusiastic student with a keen interest in programming, mapping and spatial data science. By comprehensive exposure to underlying concepts and applying them vividly to various projects, my passion for these domains continues to grow. I am a passionate individual who thrives on building real-world solutions.",
         details: {
             Birthday: "23 June 2003",
             City: "Balanga, Bataan",
