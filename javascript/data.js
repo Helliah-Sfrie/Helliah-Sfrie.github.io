@@ -26,7 +26,7 @@ export const data = {
     },
     about: {
         image: "img/krystel-about.jpg",
-        description: "Focused and enthusiastic student with a keen interest in programming, mapping and spatial data science. By comprehensive exposure to underlying concepts and applying them vividly to various projects, my passion for these domains continues to grow. I am a passionate individual who thrives on building real-world solutions.",
+        description: "I’m a strong-willed and enthusiastic student with a deep interest in programming, mapping, and spatial data science. Through hands-on experience and a solid understanding of core concepts, I’ve developed a growing passion for these fields. I thrive on applying my skills to real-world projects and enjoy building practical solutions that make an impact.",
         details: {
             Birthday: "23 June 2003",
             City: "Balanga, Bataan",
