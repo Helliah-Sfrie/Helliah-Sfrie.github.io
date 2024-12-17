@@ -1,7 +1,7 @@
-# 🌍 **Helliah-Sfrie.github.io**  
-## *Welcome to My Spatial Science Portfolio*  
 
----
+# <div align="center">🌍 **Helliah-Sfrie.github.io** </div>
+## <div align="center">*Welcome to My Spatial Science Portfolio*  </div>
+ ---
 
 ### Hi, I'm **Krystel Swin**!  
 This portfolio showcases my projects in **Spatial Data Science** and **Engineering**.
@@ -16,6 +16,7 @@ This portfolio showcases my projects in **Spatial Data Science** and **Engineeri
 | - With Highest Honors                                  | - University Scholar, AY 2021-2022                  |
 | - Batch Valedictorian                                  | - University Scholar, AY 2022-2023                  |
 |                                                        | - University Scholar, AY 2023-2024                  |
+
 
 ---
 
@@ -32,5 +33,12 @@ This portfolio showcases my projects in **Spatial Data Science** and **Engineeri
 
 ---
 
-### To Visit My Full Portfolio:
-[![Visit My Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge)](https://Helliah-Sfrie.github.io/)
+## <div align="center"> **Visit My Full Portfolio** </div>
+
+
+<p align="center">
+<a href="https://Helliah-Sfrie.github.io/">
+  <img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge" alt="Visit My Portfolio">
+</a>
+</p>
+---
