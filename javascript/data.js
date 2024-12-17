@@ -90,7 +90,7 @@ export const data = {
         },
         {
             title: "Exercise 1 part 2",
-            link: "https://colab.research.google.com/drive/1YjNP0_8Lzceyy6qCDIWYnk6oJWDbqrE1",
+            link: "https://colab.research.google.com/drive/1YjNP0_8Lzceyy6qCDIWYnk6oJWDbqrE1?usp=sharing",
             description: "This project explores spatial regression techniques to understand factors influencing vacation rental prices in Metro Manila.",
             tasks: "Processed geospatial data, performed statistical and spatial regression analysis, and visualized spatial dependencies.",
             tools: "Python (GeoPandas, PySAL, Matplotlib, Seaborn, Folium, Mapclassify), TripAdvisor Vacation Rental Data, OpenStreetMap.",
